@@ -9,8 +9,8 @@ PMs do manually today.
 - 🔨 Building a Competitive Intelligence RAG app — 
 extracting insights from reviews, blogs, and public data
 - 📚 Learning to build with Claude API and Cursor
-- 🤝 Open to VP / Director / Principal / Senior PM roles 
-at AI-first companies, big tech, and fintech/SaaS platforms
+- 🤝 Open to PM leadership roles at AI-first companies, 
+big tech, and fintech/SaaS platforms
 
 ## Featured Projects
 ## Featured Projects
