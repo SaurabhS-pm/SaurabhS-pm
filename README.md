@@ -1,7 +1,7 @@
 # Hi, I'm Saurabh S. 👋
 
 ## What I Build
-I tools that solve real payment and product problems — 
+AI products that solve real payment and product problems — 
 focused on RAG apps and agentic AI that automate what 
 PMs do manually today.
 
