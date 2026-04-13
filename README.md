@@ -13,8 +13,10 @@ extracting insights from reviews, blogs, and public data
 at AI-first companies, big tech, and fintech/SaaS platforms
 
 ## Featured Projects
-*Projects coming soon — currently in build mode. 
-Check back weekly.*
+## Featured Projects
+| Project | What It Does | Stack |
+|---|---|---|
+| [Competitive Intel RAG](https://github.com/SaurabhS-pm/competitive-intel-rag) | Scrapes App Store and Play Store reviews, answers product questions about any competitor app with sentiment analysis | Python, ChromaDB, OpenRouter, Streamlit |
 
 ## Connect
 - 💼 https://www.linkedin.com/in/saurabhsrivast/
