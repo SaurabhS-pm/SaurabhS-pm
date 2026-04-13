@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Saurabh S. 👋
 
-<!--
-**SaurabhS-pm/SaurabhS-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Build
+I tools that solve real payment and product problems — 
+focused on RAG apps and agentic AI that automate what 
+PMs do manually today.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 🔨 Building a Competitive Intelligence RAG app — 
+extracting insights from reviews, blogs, and public data
+- 📚 Learning to build with Claude API and Cursor
+- 🤝 Open to VP / Director / Principal / Senior PM roles 
+at AI-first companies, big tech, and fintech/SaaS platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+*Projects coming soon — currently in build mode. 
+Check back weekly.*
+
+## Connect
+- 💼 https://www.linkedin.com/in/saurabhsrivast/
+- 📧 writeto.saurabhs@gmail.com
+
+---
+*PM who ships. Building AI products that solve real product problems. RAG and LLMs.*
