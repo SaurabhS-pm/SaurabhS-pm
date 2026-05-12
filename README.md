@@ -10,7 +10,7 @@ PMs do manually today.
 extracting insights from reviews, blogs, and public data
 - 📚 Learning to build with Claude API and Cursor
 - 🤝 Open to PM leadership roles at AI-first companies, 
-big tech, and fintech/SaaS platforms
+big tech, and payment/fintech/SaaS platforms
 
 ## Featured Projects
 ## Featured Projects
