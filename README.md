@@ -8,7 +8,7 @@ PMs do manually today.
 ## What I'm Working On
 - 🔨 Building a Competitive Intelligence RAG app — 
 extracting insights from reviews, blogs, and public data
-- 📚 Learning to build with Claude API and Cursor
+- 📚 Learning to build with Claude API and VS Code
 - 🤝 Open to PM leadership roles at AI-first companies, 
 big tech, and payment/fintech/SaaS platforms
 
