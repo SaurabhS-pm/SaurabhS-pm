@@ -6,7 +6,7 @@ focused on RAG apps and AI/ML that automate what
 PMs do manually today.
 
 ## What I'm Working On
-- 🔨 Building a AI voice agent for payment support
+- 🔨 Building AI voice agent for payment support
 - 🤝 Open to PM leadership roles at AI-first companies, 
 big tech, and payment/fintech/SaaS platforms
 
