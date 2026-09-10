@@ -2,13 +2,11 @@
 
 ## What I Build
 AI products that solve real payment and product problems — 
-focused on RAG apps and agentic AI that automate what 
+focused on RAG apps and AI/ML that automate what 
 PMs do manually today.
 
 ## What I'm Working On
-- 🔨 Building a Competitive Intelligence RAG app — 
-extracting insights from reviews, blogs, and public data
-- 📚 Learning to build with Claude API and VS Code
+- 🔨 Built a voice agent for payment support
 - 🤝 Open to PM leadership roles at AI-first companies, 
 big tech, and payment/fintech/SaaS platforms
 
